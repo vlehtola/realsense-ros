@@ -1,4 +1,4 @@
-#include "../include/base_realsense_node.h"
+#include "../include/realsense_camera2/base_realsense_node.h"
 #include "assert.h"
 #include <boost/algorithm/string.hpp>
 #include <algorithm>
